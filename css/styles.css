@@ -1,0 +1,17 @@
+
+img{
+  width: 170px;
+  height: auto;
+  margin: 150px auto 50px 30px;
+  display: flex;
+  border-radius: 50%;
+}
+
+.personalities{
+  margin-top: 100px;
+}
+
+#resume{
+  margin-top: 50px;
+  text-align: center;
+}
